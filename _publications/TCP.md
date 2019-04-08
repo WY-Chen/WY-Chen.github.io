@@ -2,11 +2,10 @@
 title: "Trimmed Conformal Prediction for High-Dimensional Models"
 collection: publications
 permalink: /publication/TCP
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2016-11-29
 venue: 'arxiv'
 paperurl: 'https://arxiv.org/abs/1611.09933'
-citation: 'Wenyu Chen, Zhaokai Wang, Wooseok Ha: “Trimmed Conformal Prediction for High-Dimensional Models”, 2016.'
+citation: 'Wenyu Chen, Zhaokai Wang, Wooseok Ha: “Trimmed Conformal Prediction for High-Dimensional Models”, 2016. arXiv:1611.09933'
 ---
 # Abstract
 

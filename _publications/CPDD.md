@@ -2,7 +2,6 @@
 title: "Discretized conformal prediction for efficient distribution‐free inference"
 collection: publications
 permalink: /publication/CPDD
-excerpt: ' '
 date: 2018-02-14
 venue: 'Stat'
 paperurl: 'https://doi.org/10.1002/sta4.173'
