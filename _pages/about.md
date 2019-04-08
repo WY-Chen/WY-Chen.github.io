@@ -14,5 +14,5 @@ Wenyu Chen is a second year PhD student in the department of Statistics, Univers
 
 I am currently working on causal graphical models. Specifically, I am interested in making causal conclusions with high-dimensional data. My other research interests include distribution-free prediction, multiple testing, and (causal) machine learning. 
 
-I am currently advised by Prof. [Mathias Drton][https://www.stat.washington.edu/~md5/Home.html] and Prof. [Ali Shojaie][http://faculty.washington.edu/ashojaie/]. 
+I am currently advised by Prof. [Mathias Drton](https://www.stat.washington.edu/~md5/Home.html) and Prof. [Ali Shojaie](http://faculty.washington.edu/ashojaie/). 
 
