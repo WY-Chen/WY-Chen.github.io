@@ -1,15 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Discretized conformal prediction for efficient distribution‐free inference"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/CPDD
+excerpt: ' '
+date: 2018-02-14
+venue: 'Stat'
+paperurl: 'https://doi.org/10.1002/sta4.173'
+citation: 'Chen, W., Chun, K.‐J., and Barber, R. F. ( 2018) Discretized conformal prediction for efficient distribution‐free inference. 7: e173. Stat, doi: 10.1002/sta4.173.'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+# Abstract
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
-
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+In regression problems where there is no known true underlying model, conformal prediction methods enable prediction intervals to be constructed without any assumptions on the distribution of the underlying data, except that the training and test data are assumed to be exchangeable. However, these methods bear a heavy computational cost—and, to be carried out exactly, the regression algorithm would need to be fitted infinitely many times. In practice, the conformal prediction method is run by simply considering only a finite grid of finely spaced values for the response variable. This paper develops discretized conformal prediction algorithms that are guaranteed to cover the target value with the desired probability and that offer a trade‐off between computational cost and prediction accuracy.
