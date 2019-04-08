@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/TCP
 date: 2016-11-29
 venue: 'arxiv'
+excerpt: 'This paper is on distribution-free inference.'
 paperurl: 'https://arxiv.org/abs/1611.09933'
 citation: 'Wenyu Chen, Zhaokai Wang, Wooseok Ha: “Trimmed Conformal Prediction for High-Dimensional Models”, 2016. arXiv:1611.09933'
 ---

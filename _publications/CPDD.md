@@ -4,6 +4,7 @@ collection: publications
 permalink: /publication/CPDD
 date: 2018-02-14
 venue: 'Stat'
+excerpt: 'This paper is on distribution-free inference.'
 paperurl: 'https://doi.org/10.1002/sta4.173'
 citation: 'Chen, W., Chun, K.‐J., and Barber, R. F. ( 2018) Discretized conformal prediction for efficient distribution‐free inference. 7: e173. Stat, doi: 10.1002/sta4.173.'
 ---
